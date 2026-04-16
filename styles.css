@@ -60,4 +60,8 @@ footer>a{
         justify-content: space-between;
         align-items:flex-start ;
     }
+    .gallery>img{
+         width: 32%;
+         margin: .5rem;
+    } 
 }
